@@ -34,19 +34,21 @@ figures are unchanged: every reported statistic in the v1.0 release can still be
 against the retained files, and the alignments themselves can be rebuilt from the JGI
 MycoCosm portal by anyone entitled to the underlying data.
 
-**This removal is not yet complete, and we would rather say so than imply otherwise.**
+**What has and has not been removed.** We would rather set this out than let a reader assume
+more than is true.
 
-- The v1.0 tag, its release and its source tarball have been deleted, and the repository
-  history was rewritten, so nothing here now links to the withdrawn files.
-- **The pre-rewrite objects are nonetheless still served by GitHub when addressed by their
-  commit SHA**, because unreferenced objects are not garbage-collected on request. We have
-  asked GitHub Support to purge them; until that is done, the earlier files remain
-  reachable by anyone who knows the SHA, and the SHA is not secret — it appears in the
-  directory name inside the Zenodo archive.
-- The v1.0 release was archived on Zenodo (doi:10.5281/zenodo.21449619) on 20 July 2026
-  under CC-BY, and a Zenodo record cannot be withdrawn. A redacted version has been
-  deposited and Zenodo Support asked to restrict the files of the earlier one.
-- Anything already downloaded is beyond our reach.
+- **GitHub — done.** Rewriting history was not sufficient: the earlier objects continued to be
+  served when addressed by their commit SHA, and that SHA was not secret, since it appears in
+  the directory name inside the v1.0 Zenodo archive. The repository was therefore deleted and
+  recreated from the redacted tree. The earlier commit, its files and the v1.0 tarball now
+  return HTTP 404.
+- **Zenodo — partly.** A redacted version is deposited as doi:10.5281/zenodo.22146740. The
+  original deposit, doi:10.5281/zenodo.21449619 of 20 July 2026, **is still downloadable**: a
+  Zenodo record cannot be withdrawn by its depositor, and we have asked Zenodo Support to
+  restrict its files while keeping the record and DOI in place so the correction stays visible.
+  Until they act, the sequence remains obtainable there.
+- **Already downloaded copies are beyond our reach.** The v1.0 archive was public under CC-BY
+  for five weeks and recorded two downloads.
 
 We are writing to the JGI Data Portal to report this and to ask which of the genomes are
 in fact use-restricted.
