@@ -34,9 +34,21 @@ figures are unchanged: every reported statistic in the v1.0 release can still be
 against the retained files, and the alignments themselves can be rebuilt from the JGI
 MycoCosm portal by anyone entitled to the underlying data.
 
-**This removal is not retroactive.** The v1.0 release was archived on Zenodo
-(doi:10.5281/zenodo.21449619) on 20 July 2026 under CC-BY, and a Zenodo record cannot be
-withdrawn. Anything already downloaded is beyond our reach. We are writing to the JGI Data
-Portal to report this and to ask which of the genomes are in fact restricted.
+**This removal is not yet complete, and we would rather say so than imply otherwise.**
+
+- The v1.0 tag, its release and its source tarball have been deleted, and the repository
+  history was rewritten, so nothing here now links to the withdrawn files.
+- **The pre-rewrite objects are nonetheless still served by GitHub when addressed by their
+  commit SHA**, because unreferenced objects are not garbage-collected on request. We have
+  asked GitHub Support to purge them; until that is done, the earlier files remain
+  reachable by anyone who knows the SHA, and the SHA is not secret — it appears in the
+  directory name inside the Zenodo archive.
+- The v1.0 release was archived on Zenodo (doi:10.5281/zenodo.21449619) on 20 July 2026
+  under CC-BY, and a Zenodo record cannot be withdrawn. A redacted version has been
+  deposited and Zenodo Support asked to restrict the files of the earlier one.
+- Anything already downloaded is beyond our reach.
+
+We are writing to the JGI Data Portal to report this and to ask which of the genomes are
+in fact use-restricted.
 
 Questions: MinSeo Kim <2023024947@knu.ac.kr>, Prof. Jae-Ho Shin <jhshin@knu.ac.kr>.
