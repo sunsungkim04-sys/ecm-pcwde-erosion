@@ -1,0 +1,7 @@
+family  RELAX_K  test                 ECM_effect     p          note
+GH7      0.46   phyloglm(presence)   -1.76 (logit)   p=0.000869   ECM 13% vs DEC 76% present
+GH6      0.80   phyloglm(presence)   -2.53 (logit)   p=0.000127   ECM 11% vs DEC 79% present
+GH28     0.87   log-count PGLS       -0.251 (log10)  p=2.93e-05   ECM 2.1 vs DEC 6.4 mean; lambda=0.98
+GH5      1.00   log-count PGLS       -0.192 (log10)  p=1.27e-07   ECM 12.0 vs DEC 19.4 mean; lambda=0.89
+
+Gradient: strongest RELAX relaxation (GH7 K=0.46) = most reduced/lost in ECM; maintained (GH5 K=1.0) = kept.

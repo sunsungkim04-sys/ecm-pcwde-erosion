@@ -1,0 +1,6 @@
+want <- c("ape","caper","phylolm","nlme","geiger","phytools","picante")
+have <- rownames(installed.packages())
+cat("R:", R.version.string, "\n")
+cat("libPaths:\n"); cat(paste0("  ", .libPaths()), sep="\n"); cat("\n")
+cat("installed (of interest):", paste(intersect(want, have), collapse=" "), "\n")
+cat("missing:", paste(setdiff(want, have), collapse=" "), "\n")

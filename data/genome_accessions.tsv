@@ -1,0 +1,184 @@
+portal	species	lifestyle	order	jgi_org_id	published
+Altal1	Alternaria alternata SRC1lrK2f v1.0	PATH	Pleosporales	Mycocosm_AP-1029432	Miyauchi 2020
+Amagr1	Amanita aff. grandis KIS10 v1.0	ECM	Agaricales	Mycocosm_AP-1381826	미발표
+Amamu1	Amanita muscaria Koide v1.0	ECM	Agaricales	Mycocosm_AP-1184846	Kohler A et al., 2015
+Amapyr1	Amanita aff. conicoverrucosa KIS12 v1.0	ECM	Agaricales	Mycocosm_AP-1281277	미발표
+Amarub1	Amanita rubescens BavarianF08 v1.0	ECM	Agaricales	Mycocosm_AP-1108591	미발표
+Amath1	Amanita thiersii Skay4041 v1.0	SAP	Agaricales	Mycocosm_AP-1184883	Miyauchi 2020
+Amore1	Amorphotheca resinae v1.0	SAP		Mycocosm_AP-1184807	Miyauchi 2020
+Ascim1	Ascobolus immersus RN42 v1.0	SAP	Pezizales	Mycocosm_AP-1070595	Miyauchi 2020
+Asppari1	Aspergillus flavus NRRL3357	PATH	Eurotiales	Mycocosm_AP-1052300	Miyauchi 2020
+Aurde3_1	Auricularia subglabra v2.0	WD	Auriculariales	Mycocosm_AP-1184831	Miyauchi 2020
+Aurpu_var_pul1	Aureobasidium pullulans var. pullulans EXF-150	SAP	Dothideales	Mycocosm_AP-1184853	Miyauchi 2020
+Bissp1	Bisporella sp. PMI_857 v1.0	SAP	Helotiales	Mycocosm_AP-1113373	Miyauchi 2020
+Bolcoc1	Boletus coccyginus 2016PMI039 v1.0	ECM	Boletales	Mycocosm_AP-1233979	미발표
+Boled5	Boletus edulis BED1 v4.0	ECM	Boletales	Mycocosm_AP-1006380	Miyauchi S et al., 2020
+Botbo1	Botryobasidium botryosum v1.0	SAP	Cantharellales	Mycocosm_AP-1184915	Miyauchi 2020
+Calful1	Caloscypha fulgens ATCC 42695 v1.0	SAP	Pezizales	Mycocosm_AP-1052673	Miyauchi 2020
+Cananz1	Cantharellus anzutake C23 v1.0	ECM	Cantharellales	Mycocosm_AP-1070577	Miyauchi S et al., 2020
+Canta1	Candida tanzawaensis NRRL Y-17324 v1.0 (outgroup)	YEAST	Saccharomycetales	Mycocosm_AP-1184857	Miyauchi 2020
+Cenge3	Cenococcum geophilum 1.058 v3.0	ECM	Mytilinidiales	Mycocosm_AP-1184953	Dauphin B et al., 2026
+Chalo1	Chalara longipes BDJ v1.0	SAP	Helotiales	Mycocosm_AP-1006300	Miyauchi 2020
+Chapip1	Chalciporus piperatus 201810 CP v1.0	ECM	Boletales	Mycocosm_AP-1238106	미발표
+Chove1	Choiromyces venosus 120613-1 v1.0	ECM	Pezizales	Mycocosm_AP-1016741	Murat C et al., 2018
+ClaPMI390	Clavulina sp. PMI_390 v1.0	SAP	Cantharellales	Mycocosm_AP-1021556	Miyauchi 2020
+Conpu1	Coniophora puteana v1.0	WD	Boletales	Mycocosm_AP-1184829	Miyauchi 2020
+CorKIS3_1	Cortinarius sp. KIS3-TL2766 v1.0	ECM	Agaricales	Mycocosm_AP-1193782	미발표
+CorTAS3_1	Cortinarius sp. TAS3 v1.0	ECM	Agaricales	Mycocosm_AP-1281292	미발표
+Corab1	Cortinarius abnormis TAS10R v1.0	ECM	Agaricales	Mycocosm_AP-1382922	미발표
+Corarc1	Cortinarius archeri SA1 v1.0	ECM	Agaricales	Mycocosm_AP-1281282	미발표
+Coraus1	Cortinarius austrovenetus TL2843-KIS7R v1.0	ECM	Agaricales	Mycocosm_AP-1193778	미발표
+Corcam1	Cortinarius aff. campbellae TAS5-PSC4363 v1.0	ECM	Agaricales	Mycocosm_AP-1153664	미발표
+Corsan2	Cortinarius saniosus 2018PMI107 v2.0	ECM	Agaricales	Mycocosm_AP-1404615	미발표
+Crula1	Crucibulum laeve CBS 166.37 v1.0	SAP	Agaricales	Mycocosm_AP-1059299	Miyauchi 2020
+Dacsp1	Dacryopinax primogenitus DJM 731 SSP1 v1.0	WD	Dacrymycetales	Mycocosm_AP-1184908	Miyauchi 2020
+Descmac1	Descolea maculata SA3 v1.0	ECM	Agaricales	Mycocosm_AP-1391349	미발표
+ElagrMar1	Elaphomyces granulatus Maridalen v1.0	ECM	Eurotiales	Mycocosm_AP-1383264	미발표
+Elamur1	Elaphomyces muricatus BavarianF46 v1.0	ECM	Eurotiales	Mycocosm_AP-1391284	미발표
+Fibsp1	Fibulorhizoctonia sp. CBS 109695 v1.0	SAP	Atheliales	Mycocosm_AP-1006937	Miyauchi 2020
+Gaumor1_1	Gautieria morchelliformis GMNE.BST v1.0	ECM	Gomphales	Mycocosm_AP-1070637	Miyauchi S et al., 2020
+Geocar1	Geopyxis carbonaria CBS 144460 v1.0	ECM	Pezizales	Mycocosm_AP-1127099	Steindorff AS et al., 2022
+Gloin1	Rhizophagus irregularis DAOM 181602 v1.0	AM	Glomerales	Mycocosm_AP-1184783	Tisserant E et al., 2013
+Gyman1	Gymnopus androsaceus JB14 v1.0	SAP	Agaricales	Mycocosm_AP-1026977	Miyauchi 2020
+Gyresc1	Gyromitra esculenta CBS101906 v1.0	SAP	Pezizales	Mycocosm_AP-1051242	Miyauchi 2020
+Gyrli1	Gyrodon lividus BX v1.0	ECM	Boletales	Mycocosm_AP-1016733	Miyauchi S et al., 2020
+Hebcy2	Hebeloma cylindrosporum h7 v2.0	ECM	Agaricales	Mycocosm_AP-1184887	Kohler A et al., 2015
+Hetan2	Heterobasidion annosum v2.0	PATH	Russulales	Mycocosm_AP-1184784	Miyauchi 2020
+Hyafin1	Hyaloscypha finlandica PMI_746 v1.0	ERM	Helotiales	Mycocosm_AP-1113349	미발표
+Hyavar1	Hyaloscypha variabilis MD1 v1.0	ERM	Helotiales	Mycocosm_AP-1383244	미발표
+Hypsu1	Hypholoma sublateritium v1.0	WD	Agaricales	Mycocosm_AP-1184894	Miyauchi 2020
+Hyssto1	Hysterangium stoloniferum HS.BST v1.0	ECM	Hysterangiales	Mycocosm_AP-1070639	Miyauchi S et al., 2020
+Jaaar1	Jaapia argillacea v1.0	WD	Jaapiales	Mycocosm_AP-1184860	Miyauchi 2020
+Kalpfe1	Kalaharituber pfeilii F3 v1.0	ECM	Pezizales	Mycocosm_AP-1060173	Miyauchi S et al., 2020
+Kurarg1	Kurtia argillacea OMC1749 v1.0	ECM	Atheliales	Mycocosm_AP-1231363	미발표
+Lacaka1	Lactarius akahatsu QP v1.0	ECM	Russulales	Mycocosm_AP-1177508	Lebreton A et al., 2022
+Lacam2	Laccaria amethystina LaAM-08-1 v2.0	ECM	Agaricales	Mycocosm_AP-1070579	Kohler A et al., 2015
+Lacbi2	Laccaria bicolor 81306 v1.0	ECM	Agaricales	Mycocosm_AP-1184876	Martin FM et al., 2026
+LaccKIS6_1	Laccaria sp. KIS1 v1.0	ECM	Agaricales	Mycocosm_AP-1193790	미발표
+Laccon1	Lactarius controversus PMI44 v1.0	ECM	Russulales	Mycocosm_AP-1108723	미발표
+Lacdel1	Lactarius deliciosus 48 v1.0	ECM	Russulales	Mycocosm_AP-1177504	Lebreton A et al., 2022
+Lachat1	Lactarius hatsudake 109 v1.0	ECM	Russulales	Mycocosm_AP-1177516	Lebreton A et al., 2022
+Lachen1	Lactarius hengduanensis 84 v1.0	ECM	Russulales	Mycocosm_AP-1177524	Lebreton A et al., 2022
+Lacind1	Lactarius indigo 2018DUKE089 v1.0	ECM	Russulales	Mycocosm_AP-1233995	Looney B et al., 2022
+Lacpsa1	Lactarius psammicola BPL869 v1.0	ECM	Russulales	Mycocosm_AP-1092644	Looney B et al., 2022
+Lacpse1	Lactarius pseudohatsudake 88 v1.0	ECM	Russulales	Mycocosm_AP-1177528	Lebreton A et al., 2022
+Lacsan1	Lactarius sanguifluus B21 v1.0	ECM	Russulales	Mycocosm_AP-1177512	Lebreton A et al., 2022
+Lactab1	Lactarius tabidus Fr. 1825 v1.0	ECM	Russulales	Mycocosm_AP-1383259	미발표
+Lactsubd1	Lactarius subdulcis FM v1.0	ECM	Russulales	Mycocosm_AP-1238110	미발표
+Lacviv1	Lactarius vividus 141 v1.0	ECM	Russulales	Mycocosm_AP-1177520	Lebreton A et al., 2022
+Leppa1	Lepidopterella palustris v1.0	SAP	Mytilinidiales	Mycocosm_AP-1011355	Miyauchi 2020
+Leuca1	Leucangium carthusianum GMNB180 v1.0	ECM	Pezizales	Mycocosm_SP-1191024	Bonito G et al., 2025
+Matter1	Mattirolomyces terfezioides MAT_tt4AIII v1.0	ECM	Pezizales	Mycocosm_AP-1251048	미발표
+MelPMI1271_1	Meliniomyces sp. PMI_1271 v1.0	ERM	Helotiales	Mycocosm_AP-1130239	미발표
+Melbi2	Meliniomyces bicolor E v2.0	ERM	Helotiales	Mycocosm_AP-1008688	Martino E et al., 2018
+Melbro1	Melanogaster broomeianus MBLB.BST v1.0	ECM	Boletales	Mycocosm_AP-1070649	Miyauchi S et al., 2020
+Melva1	Meliniomyces variabilis F v1.0	ERM	Helotiales	Mycocosm_AP-1006263	Martino E et al., 2018
+Morco1	Morchella importuna CCBAS932 v1.0	ECM	Pezizales	Mycocosm_AP-1024002	Murat C et al., 2018
+Muloch1	Multifurca ochricompacta BPL690 v1.0	ECM	Russulales	Mycocosm_AP-1106217	Looney B et al., 2022
+Neole1	Neolentinus lepideus v1.0	WD	Gloeophyllales	Mycocosm_AP-1006921	Miyauchi 2020
+Neucr_trp3_1	Neurospora crassa FGSC 73 trp-3 v1.0	SAP	Sordariales	Mycocosm_AP-1119632	Miyauchi 2020
+Oidma1	Oidiodendron maius Zn v1.0	ERM	Incertae sedis	Mycocosm_AP-1184852	Kohler A et al., 2015
+Parsph2	Paragyrodon sphaerosporus FC442 v2.0	ECM	Boletales	Mycocosm_MPI-Parsph2	미발표
+Paxin1	Paxillus involutus ATCC 200175 v1.0	ECM	Boletales	Mycocosm_AP-1184879	Kohler A et al., 2015
+Paxru2	Paxillus adelphus Ve08.2h10 v2.0	ECM	Boletales	Mycocosm_AP-1006421	Kohler A et al., 2015
+Penswi1	Penicillium sp. GLBRC 242 v1.0	ECM	Eurotiales	Mycocosm_AP-1144761	미발표
+Phchr2	Phanerochaete chrysosporium RP-78 v2.2	WD	Polyporales	Mycocosm_AP-1184789	Miyauchi 2020
+Phisc1	Phialocephala scopiformis 5WS22E1 v1.0	ENDO	Helotiales	Mycocosm_AP-1027010	Miyauchi 2020
+Phlbr1	Phlebia brevispora HHB-7030 SS6 v1.0	WD	Polyporales	Mycocosm_AP-1184835	Miyauchi 2020
+Piclef1	Picoa lefebvrei Pl1701 v1.0	ECM	Pezizales	Mycocosm_AP-1245399	미발표
+Pilbys1	Piloderma byssinum 4S31 v1.0	ECM	Atheliales	Mycocosm_AP-1208219	미발표
+Pilsph1	Piloderma sphaerosporum 354 v1.0	ECM	Atheliales	Mycocosm_AP-1208215	미발표
+Piscap1	Pisolithus capsulifer 3163 v1.0	ECM	Boletales	Mycocosm_AP-1207671	미발표
+Piscro1	Pisolithus croceorrhizus subspA 74A v1.0	ECM	Boletales	Mycocosm_AP-1133190	Plett JM et al., 2023
+Pismar1	Pisolithus marmoratus ssp. 2 16A v1.0	ECM	Boletales	Mycocosm_AP-1167252	Plett JM et al., 2023
+Pismar721_1	Pisolithus marmoratus 721 v1.0	ECM	Boletales	Mycocosm_AP-1207667	미발표
+Pismi_AB1_1	Pisolithus sp. B1 v1.0	ECM	Boletales	Mycocosm_AP-1133198	Plett JM et al., 2023
+Pisthe1	Pisolithus thermaeus 11 v1.0	ECM	Boletales	Mycocosm_AP-1133194	Plett JM et al., 2023
+Pisthe227_1	Pisolithus croceorrhizus ssp. 2 72 v1.0	ECM	Boletales	Mycocosm_AP-1167256	Plett JM et al., 2023
+Piswes1	Pisolithus tympanobaculus R1 v1.0	ECM	Boletales	Mycocosm_AP-1111144	미발표
+Pleost1	Pleurotus ostreatus PC15 v2.0	WD	Agaricales	Mycocosm_AP-1489499	Miyauchi 2020
+Plicr1	Plicaturopsis crispa v1.0	WD	Amylocorticiales	Mycocosm_AP-1184861	Miyauchi 2020
+PosplRSB12_1	Postia placenta MAD-698-R-SB12 v1.0	WD	Polyporales	Mycocosm_AP-1184817	Miyauchi 2020
+Punst1	Punctularia strigosozonata v1.0	PATH	Corticiales	Mycocosm_AP-1184832	Miyauchi 2020
+Ramac1	Ramaria rubella (R. acris) UT-36052-T v1.0	SAP	Gomphales	Mycocosm_AP-1016737	Miyauchi 2020
+Rhier1	Rhizoscyphus ericae UAMH 7357 v1.0	ERM	Helotiales	Mycocosm_AP-1006267	Martino E et al., 2018
+Rhisa1	Rhizopogon salebrosus TDB-379 v1.0	ECM	Boletales	Mycocosm_AP-1039528	미발표
+Rhitru1	Rhizopogon truncatus FC74 v1.0	ECM	Boletales	Mycocosm_AP-1134112	미발표
+Rhivi1	Rhizopogon vinicolor AM-OR11-026 v1.0	ECM	Boletales	Mycocosm_AP-1015509	Mujic AB et al., 2017
+RusKIS4_1_1	Russula sp. KIS4 v1.1	ECM	Russulales	Mycocosm_AP-1281312	미발표
+RusSA2_1	Russula sp. SA2 v1.0	ECM	Russulales	Mycocosm_AP-1281317	미발표
+RusbicECM9_1	Russula bicolor Finland ECM9 v1.0	ECM	Russulales	Mycocosm_AP-1528874	미발표
+Rusbre1	Russula brevipes BPL707 v1.0	ECM	Russulales	Mycocosm_AP-1106221	Looney B et al., 2022
+Ruscom1	Russula compacta BPL669 v1.0	ECM	Russulales	Mycocosm_AP-1108687	Looney B et al., 2022
+Ruscya1	Russula cyanoxantha BavarianF04 v1.0	ECM	Russulales	Mycocosm_AP-1391289	미발표
+RusdecM1	Russula decolorans Maridalen v1.0	ECM	Russulales	Mycocosm_AP-1383254	미발표
+Rusdis1	Russula dissimulans BPL704 v1.0	ECM	Russulales	Mycocosm_AP-1106225	Looney B et al., 2022
+Rusear1	Russula earlei BPL698 v1.0	ECM	Russulales	Mycocosm_AP-1190816	Looney B et al., 2022
+Ruseme1	Russula emetica 2018DUKE113 v1.0	ECM	Russulales	Mycocosm_AP-1108579	미발표
+Rusnee1	Russula sp. KIS8R TL3126 v1.0	ECM	Russulales	Mycocosm_AP-1281307	미발표
+Rusoch1	Russula ochroleuca BavarianF39 v1.0	ECM	Russulales	Mycocosm_AP-1108583	미발표
+Rusrug1	Russula rugulosa BPL654 v1.0	ECM	Russulales	Mycocosm_AP-1092640	Looney B et al., 2022
+Russem1	Russula seminuda PSC4341-TAS1 v1.0	ECM	Russulales	Mycocosm_AP-1193802	미발표
+Rusvin1	Russula vinacea BPL710 v1.0	ECM	Russulales	Mycocosm_AP-1108699	Looney B et al., 2022
+Schco3	Schizophyllum commune H4-8 v3.0	WD	Agaricales	Mycocosm_AP-1184952	Miyauchi 2020
+Sclci1	Scleroderma citrinum Foug A v1.0	ECM	Boletales	Mycocosm_AP-1184872	Kohler A et al., 2015
+Sclyun1	Scleroderma yunnanense jo. v1.0	ECM	Boletales	Mycocosm_AP-1266736	Zhang H et al., 2025
+Sebve1	Sebacina vermifera MAFF 305830 v1.0	ORM	Sebacinales	Mycocosm_AP-1184854	Kohler A et al., 2015
+Ser400_1	Serendipita sp. 400 v1.0	ORM	Sebacinales	Mycocosm_AP-1239917	미발표
+Ser405_1	Serendipita sp. 405 v1.0	ORM	Sebacinales	Mycocosm_AP-1239921	미발표
+Ser411_1	Serendipita sp. 411 v1.0	ORM	Sebacinales	Mycocosm_AP-1239925	미발표
+Serend1	Serendipita sp. 407 v1.0	ORM	Sebacinales	Mycocosm_AP-1140009	미발표
+Sisni1	Sistotremastrum niveocremeum HHB9708 ss-1 1.0	WD	Trechisporales	Mycocosm_AP-1070605	Miyauchi 2020
+Sphst1	Sphaerobolus stellatus v1.0	WD	Geastrales	Mycocosm_AP-1184862	Miyauchi 2020
+Stasp1	Stagonospora sp. SRC1lsM3a v1.0	PATH	Pleosporales	Mycocosm_AP-1029440	Miyauchi 2020
+SuiFC429_1	Suillus sp. nov. FC429 v1.0	ECM	Boletales	Mycocosm_AP-1232790	미발표
+Suiac1	Suillus acidus FC148 v1.0	ECM	Boletales	Mycocosm_AP-1184110	미발표
+Suiame1	Suillus americanus EM31 v1.0	ECM	Boletales	Mycocosm_AP-1052754	Lofgren LA et al., 2021
+Suibr2	Suillus brevipes Sb2 v2.0	ECM	Boletales	Mycocosm_AP-1011228	Branco S et al., 2015
+Suibru1_1	Suillus brunnescens FC94 v1.1	ECM	Boletales	Mycocosm_AP-1148154	미발표
+Suicol1	Suillus collinitus S28 v1.0	ECM	Boletales	Mycocosm_AP-1234025	미발표
+Suicot1	Suillus cothurnatus VC 1858 v1.0	ECM	Boletales	Mycocosm_AP-1104933	Lofgren LA et al., 2021
+Suidis1	Suillus discolor FC423 v1.0	ECM	Boletales	Mycocosm_AP-1184094	Lofgren LA et al., 2021
+Suielb1	Suillus elbensis FC64 v1.0	ECM	Boletales	Mycocosm_AP-1162630	미발표
+Suifus1	Suillus fuscotomentosus FC203 v1.0	ECM	Boletales	Mycocosm_AP-1141218	Lofgren LA et al., 2021
+Suigla1	Suillus glandulosipes FC488 v1.0	ECM	Boletales	Mycocosm_AP-1231390	미발표
+Suigra1	Suillus granulatus S33 v1.0	ECM	Boletales	Mycocosm_AP-1323250	미발표
+Suilquie1	Suillus quiescens AUS223 v1.0	ECM	Boletales	Mycocosm_AP-1262551	미발표
+Suioch1	Suillus ochraceoroseus FC498 v1.0	ECM	Boletales	Mycocosm_AP-1239265	미발표
+Suipic1	Suillus spraguei EM44 v1.0	ECM	Boletales	Mycocosm_AP-1052766	Lofgren LA et al., 2021
+Suiplac1	Suillus placidus DOB743 v1.0	ECM	Boletales	Mycocosm_AP-1234017	Lofgren LA et al., 2021
+Suiplo1	Suillus plorans S12 v1.0	ECM	Boletales	Mycocosm_AP-1234021	Lofgren LA et al., 2021
+Suipse1	Suillus pseudogranulatus FC45 v1.0	ECM	Boletales	Mycocosm_AP-1184102	미발표
+Suipun1	Suillus pungens FC27 v1.0	ECM	Boletales	Mycocosm_AP-1148166	미발표
+Suipunc1	Suillus punctipes FC325 v1.0	ECM	Boletales	Mycocosm_AP-1148174	미발표
+Suiqui1	Suillus quiescens FC197 v1.0	ECM	Boletales	Mycocosm_AP-1148170	미발표
+Suisu1	Suillus subalutaceus FC151 v1.0	ECM	Boletales	Mycocosm_AP-1141214	Lofgren LA et al., 2021
+Suisub1	Suillus subaureus MN1 v1.0	ECM	Boletales	Mycocosm_AP-1062131	Lofgren LA et al., 2021
+Suitom1	Suillus tomentosus 220 v1.0	ECM	Boletales	Mycocosm_AP-1133470	미발표
+Suivar1	Suillus variegatus UH-Sva-Z1 v1.0	ECM	Boletales	Mycocosm_AP-1141222	Lofgren LA et al., 2021
+Suivis2	Suillus viscidus S02 v2.0	ECM	Boletales	Mycocosm_AP-1275917	미발표
+Suqu222_1	Suillus quiescens AUS222 v1.0	ECM	Boletales	Mycocosm_AP-1262547	미발표
+Suqu227_1	Suillus quiescens NZ227 v1.0	ECM	Boletales	Mycocosm_AP-1262563	미발표
+Tercla1	Terfezia claveryi T7 v1.0	ECM	Pezizales	Mycocosm_AP-1040583	Miyauchi S et al., 2020
+Thacu1	Rhizoctonia solani AG-1 IB	PATH	Cantharellales	Mycocosm_AP-1103563	Miyauchi 2020
+Theter1	Thelephora terrestris UH-Tt-Lm1 v1.0	ECM	Thelephorales	Mycocosm_AP-1070583	Miyauchi S et al., 2020
+Tirniv1	Tirmania nivea G3 v1.0	ECM	Pezizales	Mycocosm_AP-1108675	Miyauchi S et al., 2020
+Treme1	Tremella mesenterica Fries v1.0	WD	Tremellales	Mycocosm_AP-1184801	Miyauchi 2020
+Trihyb1	Trichophaea hybrida UTF0779 v1.0	ECM	Pezizales	Mycocosm_AP-1086379	Miyauchi S et al., 2020
+Trima3	Tricholoma matsutake 945 v3.0	ECM	Agaricales	Mycocosm_AP-1184949	Miyauchi S et al., 2020
+Tripop1	Tricholoma populinum 2016PMI031 v1.0	ECM	Agaricales	Mycocosm_AP-1234003	미발표
+Trire2	Trichoderma reesei v2.0	SAP	Hypocreales	Mycocosm_AP-1184794	Miyauchi 2020
+Tubcan1	Tuber canaliculatum GB_Tcana1 v1.0	ECM	Pezizales	Mycocosm_AP-1191022	미발표
+Tubgib1	Tuber gibbosum GB_Tgibb2 v1.0	ECM	Pezizales	Mycocosm_AP-1191018	미발표
+Tubmel1	Tuber melosporum Tmelo v1.0	ECM	Pezizales	Mycocosm_AP-1272507	미발표
+Tulca1	Tulasnella calospora 157-1 v1.0	ORM	Cantharellales	Mycocosm_AP-1184873	미발표
+Tulinq1	Tulasnella inquilina UAMH 7632 v1.0	ORM	Cantharellales	Mycocosm_AP-1239901	미발표
+Tulsp812A_1	Ceratobasidium sp 535-2 v1.0	ORM	Cantharellales	Mycocosm_AP-1378902	미발표
+Tylfel1	Tylopilus felleus Maridalen v1.0	ECM	Boletales	Mycocosm_AP-1383269	미발표
+Usnflo1	Usnea florida ATCC18376 v1.0	LICHEN	Lecanorales	Mycocosm_AP-1051218	Miyauchi 2020
+Walse1	Wallemia sebi v1.0	SAP	Wallemiales	Mycocosm_AP-1184821	Miyauchi 2020
+Wican1	Wickerhamomyces anomalus NRRL Y-366-8 v1.0 (outgroup)	YEAST	Saccharomycetales	Mycocosm_AP-1184818	Miyauchi 2020
+Wilmi1	Wilcoxina mikolae CBS 423.85 v1.0	ECM	Pezizales	Mycocosm_AP-1016517	Miyauchi S et al., 2020
+Xerpru1	Xerocomellus pruinatus BavarianF63 v1.0	ECM	Boletales	Mycocosm_AP-1391304	미발표
+Xylhe1	Xylona heveae TC161 v1.0	ENDO	Xylonomycetales	Mycocosm_AP-1019531	Miyauchi 2020
+Xylhyp1	Xylaria hypoxylon OSC100004 v1.0	SAP	Xylariales	Mycocosm_AP-1050990	Miyauchi 2020

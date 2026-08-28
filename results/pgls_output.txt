@@ -1,0 +1,24 @@
+################ H3 PGLS ################
+Tree tips: 182  Data rows: 182 
+
+=== A) ECM vs SAP+WD  [raw PCWDE]  |  response=logpcwde  (ECM n=122 vs other n=33) ===
+  PGLS: ECM effect = -0.387 (log10)  p = 1.55e-11   Pagel lambda = 0.938
+        -> ECM has 0.41x the count of the baseline group (10^effect)
+  OLS (no phylo): ECM effect = -0.446  p = 1.6e-19
+
+=== A) ECM vs SAP+WD  [functional intact]  |  response=logfunc  (ECM n=122 vs other n=33) ===
+  PGLS: ECM effect = -0.262 (log10)  p = 9.76e-10   Pagel lambda = 0.933
+        -> ECM has 0.55x the count of the baseline group (10^effect)
+  OLS (no phylo): ECM effect = -0.299  p = 5.76e-15
+
+=== B) ECM vs all non-ECM  [raw PCWDE]  |  response=logpcwde  (ECM n=122 vs other n=60) ===
+  PGLS: ECM effect = -0.362 (log10)  p = 2.03e-08   Pagel lambda = 1.000
+        -> ECM has 0.43x the count of the baseline group (10^effect)
+  OLS (no phylo): ECM effect = -0.456  p = 1.3e-19
+
+=== B) ECM vs all non-ECM  [functional intact]  |  response=logfunc  (ECM n=122 vs other n=60) ===
+  PGLS: ECM effect = -0.237 (log10)  p = 7.13e-07   Pagel lambda = 1.000
+        -> ECM has 0.58x the count of the baseline group (10^effect)
+  OLS (no phylo): ECM effect = -0.300  p = 3.45e-16
+
+################ done ################
