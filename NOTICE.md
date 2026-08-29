@@ -19,8 +19,8 @@ do not.
 ## 2. Sequence from use-restricted genomes has been removed
 
 The v1.0 release included coding sequence from 16 JGI MycoCosm genomes that have no
-associated publication and may be use-restricted. It should not have been redistributed
-before their portal status was checked. Removed on 2026-08-28:
+associated publication and may be use-restricted. We had not established their
+use-restriction status before that release was published. Removed on 2026-08-28:
 
 | What | Where | Removed |
 |---|---|---|
